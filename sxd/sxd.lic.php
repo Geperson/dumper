@@ -1,0 +1,3 @@
+<?php
+$key = 'ti2ZTssEpLy7PQsXG4CbZ1=2ovjVO5Ov3mn1QK9=WOJfwSQJPIv8WR+bP6Lj3zuzmAJZsW68U8rQ0bDDmfSLHb83XpeZo4nZMz6m';
+?>
